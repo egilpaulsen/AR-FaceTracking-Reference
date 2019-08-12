@@ -24,7 +24,7 @@ Other names has been used, for example the Sloth-example from unity uses **blend
 
 Therefore, stick with the names used for the HumanReference in the project (See the animations linked in _FaceAnimations Human_-animatorController
 
-`
+```
 m_FaceArkitBlendShapeIndexMap[ARKitBlendShapeLocation.BrowDownLeft]  
 m_FaceArkitBlendShapeIndexMap[ARKitBlendShapeLocation.BrowDownRight] 
 m_FaceArkitBlendShapeIndexMap[ARKitBlendShapeLocation.BrowInnerUp]   
@@ -78,4 +78,4 @@ m_FaceArkitBlendShapeIndexMap[ARKitBlendShapeLocation.NoseSneerLeft]
 m_FaceArkitBlendShapeIndexMap[ARKitBlendShapeLocation.NoseSneerRight]  
 m_FaceArkitBlendShapeIndexMap[ARKitBlendShapeLocation.TongueOut]  
 
-`
+```

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45071954, g: 0.500667, b: 0.57486016, a: 1}
+  m_IndirectSpecularColor: {r: 0.45131898, g: 0.50023085, b: 0.5692035, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -175,7 +175,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1707374410, guid: a5e76df5cbfd54a06abdaf52046adbc0, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a5e76df5cbfd54a06abdaf52046adbc0, type: 3}
 --- !u!1 &1084659859
 GameObject:
@@ -226,9 +227,9 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 30
+  near clip plane: 0.1
+  far clip plane: 3
+  field of view: 26.991467
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -288,7 +289,7 @@ Light:
   serializedVersion: 9
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 0.8
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.802082
@@ -344,13 +345,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1318660823}
-  m_LocalRotation: {x: 0.3027505, y: -0.1242918, z: 0.039857876, w: 0.9440896}
+  m_LocalRotation: {x: 0.225866, y: -0.12709397, z: 0.029735835, w: 0.96537423}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 35.56, y: -15, z: 0}
+  m_LocalEulerAnglesHint: {x: 26.337002, y: -15.000001, z: 0}
 --- !u!1001 &2644261290955937233
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -417,11 +418,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2644261290494818303, guid: 152821eead4e1464c834cef1e0899f2e,
-        type: 3}
-      propertyPath: m_Name
-      value: Head
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 152821eead4e1464c834cef1e0899f2e, type: 3}
