@@ -78,4 +78,8 @@ m_FaceArkitBlendShapeIndexMap[ARKitBlendShapeLocation.NoseSneerLeft]
 m_FaceArkitBlendShapeIndexMap[ARKitBlendShapeLocation.NoseSneerRight]  
 m_FaceArkitBlendShapeIndexMap[ARKitBlendShapeLocation.TongueOut]  
 
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 0500acc8d5435ffad55230650555d699c437de4e

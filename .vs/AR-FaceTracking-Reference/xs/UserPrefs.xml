@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E8B6B54B-CC3F-DEF2-E5DF-4C1F8F462DB8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FaceController.cs">
+    <Files>
+      <File FileName="Assets/FaceController.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR-FaceTracking-Reference" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FaceController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="802638bb-a171-473e-837e-90029484a83c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
