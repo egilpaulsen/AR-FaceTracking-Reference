@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45131898, g: 0.50023085, b: 0.5692035, a: 1}
+  m_IndirectSpecularColor: {r: 0.44751728, g: 0.49747115, b: 0.5753145, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -294,6 +294,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SlothReference
       objectReference: {fileID: 0}
+    - target: {fileID: 137740007780104604, guid: a5e76df5cbfd54a06abdaf52046adbc0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[19]
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4447038815701200, guid: a5e76df5cbfd54a06abdaf52046adbc0, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.15
@@ -336,11 +341,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4447038815701200, guid: a5e76df5cbfd54a06abdaf52046adbc0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 137740007780104604, guid: a5e76df5cbfd54a06abdaf52046adbc0,
-        type: 3}
-      propertyPath: m_BlendShapeWeights.Array.data[19]
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
@@ -623,7 +623,7 @@ Light:
   serializedVersion: 9
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0.8
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.802082
@@ -679,13 +679,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1318660823}
-  m_LocalRotation: {x: 0.225866, y: -0.12709397, z: 0.029735835, w: 0.96537423}
+  m_LocalRotation: {x: 0.39724112, y: -0.11959113, z: 0.052297805, w: 0.9083845}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 26.337002, y: -15.000001, z: 0}
+  m_LocalEulerAnglesHint: {x: 47.24, y: -15.000001, z: 0}
 --- !u!1 &1414234830 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1217920764520308, guid: a5e76df5cbfd54a06abdaf52046adbc0,
