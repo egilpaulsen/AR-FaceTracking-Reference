@@ -6,6 +6,8 @@ The motion capture animations are recorded from an iPad Pro to best simulate wha
 
 Compatible with Unity 2018.3 and above. 
 
+![Blend shape tests](http://egilpaulsen.com/img/blendshapes.gif)
+
 ## Instructions for installing AR FaceTracking Reference Models project
 
 1. Download the latest version of Unity 2019.2
