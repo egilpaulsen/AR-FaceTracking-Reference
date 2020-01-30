@@ -1,7 +1,10 @@
 # AR FaceTracking Reference Models
-Example meshes and animations that uses the blendshape naming the way ARKit does. The project includes an example scene that runs simple motion captured and manually key framed animations. 
+Example meshes and animations that uses the blendshape naming the way ARKit does. 
 
-Compatible with Unity 2018.3.
+The project includes an example scene that runs simple motion captured and manually key framed animations. 
+The motion capture animations are recorded from an iPad Pro to best simulate what a face mesh would look like when using ARKit. 
+
+Compatible with Unity 2018.3 and above. 
 
 ## Instructions for installing AR FaceTracking Reference Models project
 
@@ -15,7 +18,7 @@ Compatible with Unity 2018.3.
 
 5. Add to the Head object a SkinnedMeshRenderer component. Add your fbxmesh containing the blendshapes. See already existing examples for reference. 
 
-6. Your blendshapes have to have the same prefix as one of the other meshes in the scene in order to make the animations work. See the HumanReference head for comparison. 
+6. Your blendshapes have to have the same prefix as one of the other meshes in the scene in order to make the animations work. See the HumanReference head for comparison and use their animator controllers.
 
 ## Preferred blendshape naming
 
